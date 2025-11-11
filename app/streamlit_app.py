@@ -12,7 +12,7 @@ init_db()
 st.set_page_config(page_title="AI Customer Support Bot", page_icon="🤖", layout="wide")
 
 
-st.title("🤖 AI Customer Support Bot — Streamlit Edition")
+st.title("Project-21 🤖 AI Customer Support Bot — Streamlit Edition")
 
 
 if 'session_id' not in st.session_state:
